@@ -1,0 +1,13 @@
+langgraph
+langchain_groq
+pydantic
+python-dotenv
+langgraph-cli
+python-dotenv
+langchain
+langchain-groq
+langchain-community
+langchain-chroma
+chromadb
+sentence-transformers
+pypdf
